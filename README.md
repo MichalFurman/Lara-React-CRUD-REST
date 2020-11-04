@@ -1,4 +1,4 @@
-# Lara_CRUD_test
+# Lara-React-CRUD-REST 
 CRUD Client - Server  App on ReactJS and Laravel PHP with REST API
 
 REST API Application with JWT Token authorization.
