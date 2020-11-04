@@ -27,7 +27,7 @@ REST API Application with JWT Token authorization.
 - in client directory - run command: 
 ```npm start ```
 - in server directory - run command: 
-```php artisan server ```
+```php artisan serve ```
 
 ### When website is opened log in with the following data:
 - username: ```a@a.pl```
